@@ -35,7 +35,12 @@ Jakékoliv téma, které se stane středobodem řešení, je na nějakém stupni
 
 <right>
 	<p>
-	<b>Tradiční pracující třída: truhláš Zbyněk Nyč z Náchodska</b>
+	<b>Tradiční pracující třída: truhlář Zbyněk Nyč z Náchodska</b>
+	 <div class="img img--16x9 img--w238">
+          <span class="img__holder">
+            <img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/zbynek-nyc-1_210510-141756_nkr.jpg?itok=FVQNW1jP" width="238" height="134" alt="">
+          </span>
+        </div>
 	</p><p>Za ta léta, co se sem vrací, zůstávají okolní lesy pořád stejné. Jen z polí, kde se dřív hospodařilo, jsou teď louky. "Je to takový vyvážený. Tady co se vytěží, to se zasadí. Nevypadá to tady jako někde v Brazílii nebo v deštnejch pralesích, kde se odlesňuje masivně. A pak se to zneužije pro nějakou zemědělskou činnost. Jinak se to chová, pak už to může ovlivňovat prostředí okolní. Nějak to nepociťuju tady, tady se to nijak neodráží. Ale tam u nich, to musí být velký změny jako, no."
 	</p>
 </right>
@@ -152,6 +157,11 @@ Dělící linie nevedou tam, kde se občas mediálně tváříme. Shoda je velk�
 <right>
 	<p>
 	<b>Kosmopolitní třída IT specialista Aleš Jeník z Prahy</b>
+	 <div class="img img--16x9 img--w238">
+          <span class="img__holder">
+            <img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/img_0672_210510-141343_nkr.jpeg?itok=9Hhrwu5D" width="238" height="134" alt="">
+          </span>
+        </div>
 	</p><p> O životní prostředí se díky výchově rodičů zajímá od mala. Klimatické změny podle něj byly na naší planetě vždycky. Myslí si ale, že ty současné člověk velmi ovlivňuje: „Počínaje kácením pralesů, přes dopravu, výrobu a tak dále. Změny, které by člověk mohl udělat, jsou většinou relativně malé. Nedávno jsem četl článek o sudech s nebezpečným odpadem DDT v oceánu. Základem jsou drobnosti, snažit se s odpadem nakládat racionálně. Spousta takových menších věcí dokáže ovlivnit celek a následně i oteplování.“
 	</p>
 </right>
