@@ -1,4 +1,4 @@
-title: "Jen třetina Čechů spojuje sucho v krajině se změnami klimatu. Postoje ke krizi ale nejsou střetem generací, ukázala data
+title: "Jen třetina Čechů spojuje sucho v krajině se změnami klimatu.<br>Postoje ke krizi ale nejsou střetem generací, ukázala data
 perex: "Perex"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
@@ -6,6 +6,7 @@ styles: []
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader] #wide, noheader (, nopic)
 ---
+
 <!-- ## Graf 1  -->
 <wide>
 <figure class="vis-static">
