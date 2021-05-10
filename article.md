@@ -102,8 +102,8 @@ Příklad: Češi třídí odpad na mezinárodní poměry celkem hodně, ale je 
 ## Graf 5 
 <wide>
 <figure class="vis-static">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf5-des.svg" class="desktop">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf5-mob.svg" class="mobile">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-mozne-dopady-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-mozne-dopady-mob.svg" class="mobile">
 </figure>
 </wide>
 
