@@ -14,7 +14,18 @@ options: [noheader] #wide, noheader (, nopic)
 	</p>
 </left>
 
-Během dne se lidé v Praze soustřeďují v okolí administrativních center a obchodů, po poledni se tak nejvíc zahustí okolí Andělu, centrum Prahy (Vodičkova ulice a Petrské náměstí) a Brumlovka nedaleko Budějovické. Na poslední jmenované adrese sídlí řada velkých korporací, mezi nimi i Microsoft nebo ČEZ. Pro srovnání, na zmíněných místech je ve "špičce" okolo šesti stovek osob na jeden hektar, průměr Prahy je 25 obyvatel na [hektar](https://cs.wikipedia.org/wiki/Hektar) (Václavské náměstí má rozlohu asi 4 hektary).
+## Buchtík postoje ke změnám klimatu
+
+grafy:
+GRAF 1 otvírákovej: postavičky věří x nevěří na změnu klimatu
+GRAF 2 názor na změnu klimatu muži x ženy, klidně jednoduchý čáry
+GRAF 3 časová osa kdy chci začít věci řešit: ne body, ale množiny (protože "za deset let" je příliš neurčité)
+GRAF 4 ohrožení životního prostředí: vybrat sucho, vodu, lesy, odpady, ovzduší a dopady změny klimatu. 1/ vypíchnout jednu nebo dvě zajímavý věci týkající se tříd, 2/ vysvětlit v popisku, že lidi paradoxně nevnímají změny klimatu a sucho dohromady
+GRAF 5 možné dopady neřešené změny klimatu na Česko – vycházet ze str. 29 "Možné dopady neřešené změny klimatu na Česko"
+GRAF 6 bublinky, kolik lidí se čeho bojí, str. 30
+GRAF 7 dvě bublinkový kolečka: strach z výrazných ztrát pro českou ekonomiku: zajištěná střední třída x strádající třída
+
+ [hektar](https://cs.wikipedia.org/wiki/Hektar) 
 
 Naopak v noci se nejvíc lidí se "namačká" ve Vršovicích, jde o 430 osob na hektar.
 
