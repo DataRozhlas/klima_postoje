@@ -73,12 +73,27 @@ GRAF 7 dvě bublinkový kolečka: strach z výrazných ztrát pro českou ekonom
 </figure>
 </wide>
 
-## Box
+## Box 1
 <right>
 	<p>
-	<b>KAREL HYNEK MÁCHA</b>
-	</p><p>
-	Karel Hynek Mácha (16. listopadu 1810 Praha-Malá Strana[1] – 6. listopadu 1836 Litoměřice[2]) byl český básník a prozaik, představitel českého romantismu a zakladatel moderní české poezie. Proslavil se jak svým životem, tak dílem, jemuž dominuje Máj (1836).
+	<b>Kosmopolitní třída IT specialista Aleš Jeník z Prahy</b>
+	</p><p> O životní prostředí se díky výchově rodičů zajímá od mala. Klimatické změny podle něj byly na naší planetě vždycky. Myslí si ale, že ty současné člověk velmi ovlivňuje: „Počínaje kácením pralesů, přes dopravu, výrobu a tak dále. Změny, které by člověk mohl udělat, jsou většinou relativně malé. Nedávno jsem četl článek o sudech s nebezpečným odpadem DDT v oceánu. Základem jsou drobnosti, snažit se s odpadem nakládat racionálně. Spousta takových menších věcí dokáže ovlivnit celek a následně i oteplování.“
+	</p>
+</right>
+
+## Box 2
+<right>
+	<p>
+	<b>Zajištěná střední třída praktická lékařka Eva Baxová z Plzně</b>
+	</p><p>Kromě jezírka, které oku lahodí, udržují Baxovi vodu i jinak a začali s tím dávno předtím, než se to stalo módou. „V zemi je zakopaný starý pivovarský tank o dvaceti kubících a do něj chytáme dešťovou vodu na zalévání zahrady. Aspoň takhle se chovat k přírodě, je pro každého minimum. Pak už by se měli ti osvícení vládní představitelé zabývat těmi většími problémy jako udržitelnost vody v krajině. Odborníci vědí, jak se to má dělat, teď už to jen realizovat.“ 
+	</p>
+</right>
+
+## Box 3
+<right>
+	<p>
+	<b>Tradiční pracující třída: truhláš Zbyněk Nyč z Náchodska</b>
+	</p><p>Za ta léta, co se sem vrací, zůstávají okolní lesy pořád stejné. Jen z polí, kde se dřív hospodařilo, jsou teď louky. "Je to takový vyvážený. Tady co se vytěží, to se zasadí. Nevypadá to tady jako někde v Brazílii nebo v deštnejch pralesích, kde se odlesňuje masivně. A pak se to zneužije pro nějakou zemědělskou činnost. Jinak se to chová, pak už to může ovlivňovat prostředí okolní. Nějak to nepociťuju tady, tady se to nijak neodráží. Ale tam u nich, to musí být velký změny jako, no."
 	</p>
 </right>
 
