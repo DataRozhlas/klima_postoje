@@ -7,14 +7,6 @@ libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader] #wide, noheader (, nopic)
 ---
 
-<!-- ## Graf 1  -->
-<wide>
-<figure class="vis-static">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-des.svg" class="desktop">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-mob.svg" class="mobile">
-</figure>
-</wide>
-
 <div class="pseudoperex">
 <ul>
 <li>Změnám klimatu věří 93 procent dospělé české populace. Přes 85 procent navíc míní, že za změnami stojí člověk. Globální změny s lokálními dopady si ale neumíme spojit, proto téma nepovažujeme za naléhavé. </li>
@@ -23,9 +15,15 @@ options: [noheader] #wide, noheader (, nopic)
 </ul>
 </div> 
 
-Spojit si usychání lesů a kácení smrkových porostů nakažených kůrovce s globální změnou klimatu je pro Čechy těžké. Podle sociologů je pro mnohé změna klimatu příliš abstraktní. „O vysychání studen slyšíme nejen v médiích, ale i od našich sousedů nebo známých. Sucho také pociťujeme na vlastních zahrádkách. Stav amazonských pralesů a to, že se celá planeta ohřívá, je pro nás ale abstraktní, protože to máme velmi dalece zprostředkované. Není to tedy pro nás tak důležité a citlivé,“ vysvětluje sociolog Buchtík. 
+<!-- ## Graf 1  -->
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-mob.svg" class="mobile">
+</figure>
+</wide>
 
-Zároveň narážejí na paradox, téma změn klimatu jsou velmi roztříštěné a pro českou veřejnost pořád mentálně rozdělená témata. „V hlavách Čechů a Češek není například sucho a globální změna klimatu pevně propojena. Tím pádem lidé, kteří jsou kritičtí k tomu, že změna klimatu existuje nemusí popírat, že dochází k ztenčování zásob pitné vody,“ vysvětluje Buchtík. 
+Spojit si usychání lesů a kácení smrkových porostů nakažených kůrovcem s globální změnou klimatu je pro Čechy těžké. Podle sociologů je pro mnohé změna klimatu příliš abstraktní. „O vysychání studen slyšíme nejen v médiích, ale i od našich sousedů nebo známých. Sucho také pociťujeme na vlastních zahrádkách. Stav amazonských pralesů a to, že se celá planeta ohřívá, je pro nás ale abstraktní, protože to máme velmi dalece zprostředkované. Není to tedy pro nás tak důležité a citlivé,“ vysvětluje sociolog Buchtík. 
 
 Sociologové českou veřejnost v postojích ke klimatu, tedy v otázkách zda změny existují, může-li za ni člověk a kdy je nutné situaci začít řešit, rozdělili do pěti skupin. Přesvědčení, kterých je zhruba 34 procent, o vlivu člověka nepochybují a zároveň naléhají na rychlé řešení. Druhou nejpočetnější skupinou jsou Znepokojení (22 procent), kteří si nejsou tak úplně jistí, ale považují řešení za naléhavé. Nejistí (19 procent), kteří si podobně jako Znepokojení myslí, že změna klimatu probíhá, nejsou si tím úplně jistí, ale její řešení by odložili. Skeptičtí (16 procent), kteří si myslí, že změna klimatu spíše není způsobená člověkem a příroda si spíš poradí sama, a stačí vše řešit v budoucnosti. A Kritičtí (9 procent). Ti buď zastávají názor, že změna klimatu není způsobená člověkem (3 procenta) nebo ji prostě není třeba řešit vůbec (6 procent).
 
