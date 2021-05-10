@@ -20,16 +20,16 @@ GRAF 7 dvě bublinkový kolečka: strach z výrazných ztrát pro českou ekonom
 ## Graf 1 
 <wide>
 <figure class="vis-static">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf1-des.svg" class="desktop">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf1-mob.svg" class="mobile">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-mob.svg" class="mobile">
 </figure>
 </wide>
 
 ## Graf 2 
 <wide>
 <figure class="vis-static">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf2-des.svg" class="desktop">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf2-mob.svg" class="mobile">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-muzi-zeny-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-muzi-zeny-mob.svg" class="mobile">
 </figure>
 </wide>
 
