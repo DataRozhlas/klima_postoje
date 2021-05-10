@@ -1,4 +1,4 @@
-title: "Buchtík:<br>Postoje ke změnám klimatu"
+title: "Jen třetina Čechů spojuje sucho v krajině se změnami klimatu. Postoje ke krizi ale nejsou střetem generací, ukázala data
 perex: "Perex"
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
@@ -6,21 +6,6 @@ styles: []
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader] #wide, noheader (, nopic)
 ---
-
-## Buchtík postoje ke změnám klimatu - osnova grafů
-
-GRAF 1 otvírákovej: postavičky věří x nevěří na změnu klimatu <br>
-GRAF 2 názor na změnu klimatu muži x ženy, klidně jednoduchý čáry <br>
-GRAF 3 časová osa kdy chci začít věci řešit: ne body, ale množiny (protože "za deset let" je příliš neurčité) <br>
-GRAF 4 ohrožení životního prostředí: vybrat sucho, vodu, lesy, odpady, ovzduší a dopady změny klimatu. 1/ vypíchnout jednu nebo dvě zajímavý věci týkající se tříd, 2/ vysvětlit v popisku, že lidi paradoxně nevnímají změny klimatu a sucho dohromady <br>
-GRAF 5 možné dopady neřešené změny klimatu na Česko – vycházet ze str. 29 "Možné dopady neřešené změny klimatu na Česko" <br>
-GRAF 6 bublinky, kolik lidí se čeho bojí, str. 30 <br>
-GRAF 7 dvě bublinkový kolečka: strach z výrazných ztrát pro českou ekonomiku: zajištěná střední třída x strádající třída <br>
-
-## Důležité poznatky 
-Změna klimatu není vnímána v kontextu ostatní enviromentálních problémů jako naléhavé téma. Je hrozbou, ale ne významnou. Tou jsou pro Čechy spíše problémy, které vidíme každodenně kolem sebe: sucho, tenčící se zásoby pitné vody, usychání lesů, proměna české krajiny. Jednoznačnou spojitost změny klimatu a například sucha v očích obyvatel České republiky ovšem vidí jen třetina (32 procent) dospělých.
-
-V textu pod grafem text z rozhovoru s Buchtíkem. Bude přepsáno. 
 <!-- ## Graf 1  -->
 <wide>
 <figure class="vis-static">
@@ -29,9 +14,34 @@ V textu pod grafem text z rozhovoru s Buchtíkem. Bude přepsáno.
 </figure>
 </wide>
 
-4)	Důvod, proč to neštěpí společnost je tedy ten, že to není téma, které by se aktivně řešilo?
+•	Změnám klimatu věří 93 procent dospělé české populace. Přes 85 procent navíc míní, že za změnami stojí člověk. Globální změny s lokálními dopady si ale neumíme spojit, není to proto naléhavé téma. 
 
-Jakékoliv téma, které se stane středobodem řešení, je na nějakém stupni detailu terčem konfliktu. Nikdo nepopírá, že je například důležité vyřešit epidemiologickou situaci. Střet ale nastává v otázkách jak. Je to nejen politický střet, na konkrétních věcech dochází k velmi ostrému střetu i ve společnosti. Dilema, jestli otevřít školy nebo stadiony je snadno uchopitelné. Klima je abstraktní, ale pokud se budeme konkrétně bavit o tom, jak bojovat s kůrovcem nebo jestli zavést speciální daň pro znečišťovatele, která se promítne do ceny potravin, tak se stane politickým tématem. 
+•	Sucho, tenčící se zásoby pitné vody nebo usychání lesů měnící českou krajinu. Tyto dopady jen třetina dospělých spojuje s globální změnou klimatu. 
+
+•	V unikátním výzkumu pro Český rozhlas o tom hovoří data sociologů z agentur PAQ Research, STEM a CVVM. Postoje ke změnám klimatu jsou druhým dílem seriálu, vypočítejte si uhlíkovou stopu tady. 
+
+•	Dělící linie v postojí ke změnám klimatu nevedou tam, kde se občas mediálně tváříme. Shoda je velká. To, že není změna klimatu si myslí do deseti procent lidí, to je málo. To, že je s tím potřeba něco dělat je pro spoustu lidí zjevné, problém nastává v tom: jak, za jakou cenu, před čím to upřednostnit a kdy s tím začít. A s čím začít. 
+
+Proč je pro Čechy těžké spojit usychání lesů a kácení smrkových porostů nakažených kůrovcem s globálními změnami klimatu je podle sociologů jednoduché: změna klimatu je pro některé z nás příliš abstraktní. „O vysychání studen slyšíme nejen v médiích ale i od našich sousedů, známých a sucho pociťujeme na vlastních zahrádkách. Stav amazonských pralesů a to, že se celá planeta ohřívá, je pro nás ale abstraktní, protože to máme velmi dalece zprostředkované a není to tedy pro nás tak důležité a citlivé,“ říká v rozhovoru pro server iROZHLAS.cz Martin Buchtík, sociolog z agentur PAQ Research, STEM a CVVM, který se podílel na reprezentativním výzkumu pro Český rozhlas. 
+
+<right>
+	<p>
+	<b>Pět skupin</b>
+	</p><p>Českou veřejnost v postojích ke klimatu sociologové rozdělili do pěti skupin podle toho, jak jsou si lidé jisti, že změna klimatu existuje, zda za ni může člověk, a kdy je nutné problémy začít řešit. Přesvědčení, kterých je zhruba 34 procent, o vlivu člověka nepochybují a zároveň naléhají na rychlé řešení. Druhou nejpočetnější skupinou jsou Znepokojení (22 procent), kteří si nejsou tak úplně jistí, ale považují řešení za naléhavé. Nejistí (19 procent), kteří si podobně jako Znepokojení myslí, že změna klimatu probíhá, nejsou si tím úplně jistí, ale její řešení by odložili. Skeptičtí (16 procent), kteří si myslí, že změna klimatu spíše není způsobená člověkem a příroda si spíš poradí sama, a stačí vše řešit v budoucnosti. A Kritičtí (9 procent). Ti buď zastávají názor, že změna klimatu není způsobená člověkem (3 procenta) nebo ji prostě není třeba řešit vůbec (6 procent).
+	</p>
+</right>
+
+Téma změny klimatu je roztříštěné do různých kategorií a změna klimatu a sucho jsou pro českou veřejnost pořád mentálně rozdělená témata. V hlavách Čechů a Češek nejsou pevně propojeny. „Tím pádem lidé, kteří jsou kritičtí ke změně klimatu a že existuje nepopírají to, že dochází k ztenčováním zásob pitné vody,“ vysvětluje Buchtík.
+
+<!-- ## Graf 3  -->
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-kdy-resit-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-kdy-resit-mob.svg" class="mobile">
+</figure>
+</wide>
+
+Zatímco o existenci změny klimatu Češi nepochybují, liší se v naléhavosti, kterou problému přisuzují. Ve veřejném prostoru navíc rezonují témata naléhavější, v posledním roce například pandemie koronaviru. „Pandemii vnímáme jako něco, co je nutné řešit teď a tady, útočí na nás každý den,“ vysvětluje sociolog Buchtík. Změna klimatu se ale zhoršuje kontinuálně, z ekonomické oblasti má podle sociologů přirovnání například k důchodové reformě. „Všichni víme, že systém je neudržitelný a musí se s ním něco udělat. Když se ale rozhodujeme, jestli teď budeme řešit důchodovou reformu nebo dotace zavřeným podnikatelům, politická reprezentace rozhodne logicky pro to, co je aktuálnější,“ dodává.
 
 <right>
 	<p>
@@ -45,13 +55,7 @@ Jakékoliv téma, které se stane středobodem řešení, je na nějakém stupni
 	</p>
 </right>
 
-7)	Kdo jsou tedy ti, kteří „nevěří“
-
-Rozdíly mezi třídami jsou opravdu malé. Pokud celkové množství skeptiků a kritiků klimatické změny je 26 procent, tak u zajištěné třídy je jich 29 procent a u nastupující kosmopolitní, která je relativně nejvíce pro ekologická, je jich 19 procent. Je to spíše tendence, než že bychom mohli vzít vzorového člověka a tím na něj ukázat. Rozdíly mezi třídami v postojích ke změnách klimatu, ne v jejich chování, jsou malé. U tradičních pracujících nebo tříd místních vazeb mohou být obavy vyšší u věcí, které mají místní vliv, vidí je v každodenním životě – zásoby pitné vody.
-
-8)	Kritický vs. Skeptický:
-
-Kritičtí jsou v otázkách změny klimatu mnohem více přesvědčení o tom, že změna klimatu buď vůbec neexistuje nebo ji není třeba řešit. Skeptičtí říkají asi neexistuje, ale nejspíše není způsobená člověkem. Jejich postoj ale není úplně přesně dán a pokud se to má řešit, tak podle nich „někdy v budoucnu.“ Říkají: „Až se ukáže, že to tak opravdu je, pojďme to řešit.“ Kdežto kritičtí říkají „ne, to určitě neexistuje nebo to není způsobeno člověkem.“
+Zároveň dodává, že štěpení společnosti podle názorů ke klimatickým změnám nastane nejspíše až v momentu, kdy se budou schvalovat konkrétní kroky. „Nikdo nepopírá, že je například důležité vyřešit epidemiologickou situaci. Střet ale nastává v otázkách jak. Je to nejen politický střet, na konkrétních věcech dochází k velmi ostrému střetu i ve společnosti. Dilema, jestli otevřít školy nebo stadiony je snadno uchopitelné. Klima je abstraktní, ale pokud se budeme konkrétně bavit o tom, jak bojovat s kůrovcem nebo jestli zavést speciální daň pro znečišťovatele, která se promítne do ceny potravin, tak se stane politickým tématem,“ říká Buchtík. 
 
 <!-- ## Graf 2  -->
 <wide>
@@ -61,23 +65,13 @@ Kritičtí jsou v otázkách změny klimatu mnohem více přesvědčení o tom, 
 </figure>
 </wide>
 
-5)	Naléhavěji změny vnímají ženy. Je to překvapující?
+Naléhavěji ale potřebu něco změnit vnímají ženy, které se častěji přiklání k možnosti začít s řešením hned. Rozdíl v postojích mezi ženami a muži je pro sociology zajímavý, ale těžko vysvětlitelný. „Může to mít spojitost s větší senzitivitou žen k okolí a životnímu prostření, a nebo, naopak větším důrazem části mužů, kteří vnímají více ekonomickou stránku věci a nebo právě mohou zdůrazňovat to, že Česká republika je natolik malým hráčem, že má smysl počkat na to, co se bude dít v okolním světě,“ vysvětluje Buchtík.  Zájem o klima výrazně roste s lidským a kulturním kapitálem. O životní prostředí se pak, nepřekvapivě, zajímají lidé již přesvědčení o tom, že ke změnám klimatu dochází.
 
-Z jedné strany je to překvapující, stejně jako je překvapující, že se v postojích neliší moc lidé napříč socioekonomickými třídami. Neliší se podle věku, z mediálního prostoru se zdálo, že jde o generační střet – mladí vs. staří. Ale takhle to není. Je to asi tím, že mladí lidé volí jiné prostředky, jsou vidět, je mezi nimi více představitelů těch, kteří říkají pozor klima se mění a my v něm budeme žít za 50, 60, 70 let. Ale v praxi to tak není. 
+Zároveň sociologové vyvracejí časté domněnky, že řešení klimatických změn je generačním střetem. „Z mediálního prostoru se zdálo, že jde o generační střet mladých a starších. Z výzkumu je ale zřejmé, že se v postojích ke změnách klimatu lidé napříč socioekonomickými třídami neliší,“ vysvětluje sociolog.
 
-Rozdíl mezi muži a ženami je zajímavý, ale pro nás velmi těžce vysvětlitelný. Možná to má co dočinění s větší senzitivitou žen k okolí a životnímu prostření, a nebo, naopak větším důrazem části mužů, kteří vnímají více ekonomickou stránku věci a nebo právě mohou zdůrazňovat to, že Česká republika je natolik malým hráčem, že má smysl počkat na to, co se bude dít v okolním světě. 
+Právě mladí lidé volí jiné prostředky pro komunikaci svých postojů a mohou jít proto v mediálním prostoru více vidět. „Je mezi nimi více představitelů těch, kteří říkají ,pozor klima se mění a my v něm budeme žít za padesát, šedesát let`. Ale v praxi to tak není,“ popisuje Buchtík.
 
-<!-- ## Graf 3  -->
-<wide>
-<figure class="vis-static">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-kdy-resit-des.svg" class="desktop">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-kdy-resit-mob.svg" class="mobile">
-</figure>
-</wide>
-
-3)	Naléhavost něco měnit spíše není, i když to vnímáme, protože..
-
-Jsou to změny dlouhodobé, mnohdy abstraktní a je tady řada témat, která vnímáme jako nutná řešit teď a tady, protože na nás útočí každý den. Typicky epidemie covidu: rychlost očkování nebo ekonomické dopady. To jsou problémy, které musíme vyřešit teď. Změna klimatu je téma dlouhodobé, která se kontinuálně zhoršuje a z ekonomické oblasti má přirovnání k důchodové reformě – všichni víme, že ten systém je neudržitelný a musí se s tím něco udělat, ale když se rozhodujeme, jestli teď budeme řešit důchodovou reformu a nebo dotace zavřeným podnikatelům, tak se politická reprezentace rozhodne logicky pro to, co je aktuálnější. Bohužel ale nevyčleňují kapacity na to, co bude v budoucnu. Strategický záměr nám uniká, dostáváme se do situace, kdy řešíme problémy, které jsme nemuseli mít. 
+Čeho se tedy Češi nejvíce obávají?
 
 <!-- ## Graf 4  -->
 <wide>
@@ -87,9 +81,9 @@ Jsou to změny dlouhodobé, mnohdy abstraktní a je tady řada témat, která vn
 </figure>
 </wide>
 
-Ukazuje se ale, že pro Čechy je těžké spojit viditelné lokální problémy s globálními změnami klimatu. Podle sociologů může být vysvětlení jednoduché, změna klimatu je příliš abstraktní. „Je to jednoznačně dáno tím, že zatímco usychání lesů a to, že se kácí zejména smrkové porosty, které jsou nakaženy kůrovcem vidíme dnes a denně v našich každodenních životech. O vysychání studen slyšíme nejen v médiích ale i od našich sousedů, známých a sucho pociťujeme na zahrádkách a podobně, ale stav amazonských pralesů a to, že se celá planeta ohřívá je pro nás abstraktní, protože to máme velmi dalece zprostředkované a není to pro nás tak důležité a citlivé. Je to tak široké téma, že nevidíme z jednoho konce na druhý a tím pádem si ho ani nespojujeme. Je to cibule, kterou loupete a loupete – musíte znát různé geopolitické souvislosti atp,“ říká v rozhovoru Martin Buchtík, sociolog z agentur PAQ Research, STEM a CVVM, který se podílel na reprezentativním výzkumu pro Český rozhlas.
+Obavy panují okolo hrozeb, které se už v prostředí projevují: sucho, zásoby vody, stav lesů.  Jakkoliv mohou být dopady změny klimatu zesilovačem ostatních hrozeb, jsou abstraktní a proto si je Češi nedokáží s lokálními problémy spojit. Z výzkumu navíc vyplývá, že čím blíže se geograficky dostáváme k respondentům, tím méně si myslí, že by na danou oblast měla globální změna klimatu výrazný vliv. Necelých 40 procent respondentů připouští, že globální změna klimatu ovlivní jejich život či rodinu. Velký až zásadní vliv na celý svět, ale přisuzují v 86 procentech. 
 
-Téma změny klimatu je roztříštěné do různých kategorií a změna klimatu a sucho jsou pro českou veřejnost pořád mentálně rozdělená témata. V hlavách Čechů a Češek nejsou pevně propojeny. Tím pádem lidé, kteří jsou kritičtí ke změně klimatu a že existuje nepopírají to, že dochází k ztenčováním zásob pitné vody atp. Změna klimatu není, ale sucho ano. 
+Sociologové ale také zjišťovali, jaká jsou v očích veřejnosti největší rizika, když se nebude změna klimatu vůbec řešit a problém bude globálně narůstat. 
 
 <left>
 	<p>
@@ -103,13 +97,12 @@ Téma změny klimatu je roztříštěné do různých kategorií a změna klimat
 	</p>
 </left>
 
-6)	Je například vnímání „nevýznamnosti“ Česka zdrojem důvodů pro lidi, kteří jsou ke změnám klimatu skeptičtí, kritičtí?
+Za nejvážnější potenciální změny klimatu Češi považují dopady, které se už v posledních letech projevily: nedostatek vody, devastace krajiny. Čím hůře představitelný a nahodilejší dopad, tím nižší mu přisuzujeme důležitost, netrápí nás tedy přírodní katastrofy. 
+Menší obavy má systematicky Zajištěná střední třída, Nastupující kosmopolitní se méně obává ekonomických ztrát a migrace, naopak více se obává ve všech ohledech Strádající třída.
 
-Neřekl bych, že to něco ovlivňuje. Víra, že jednotlivec může něco změnit nesouvisí jen se změnami klimatu, ale souvisí a propisuje se do ochoty jít k volbám, změnit něco ve svém okolí, atp. Možnost, že jednotlivec může něco udělat je spíše obecný názor a podnázorem toho je, že mohu udělat něco se změnou klimatu. Je to spíše osobní rozhodnutí. 
+Zajímavý je ale postoj k migraci – relativně silná skupina lidí označila, že se migrace rozhodně obává. Podle sociologů jde o pozůstatek veřejné debaty let minulých a efektu strachu kolem migrační krize. 
 
-Příklad: Češi třídí odpad na mezinárodní poměry celkem hodně, ale je to dáno tím, že odpadní nádoby na tříděný odpad jsou k dispozici na každém rohu. Jde to vidět na tom, že pokud nádobu na tříděny odpad, typicky kartony od mléka nebo džusu, nemáte blízko, tak je netřídíte. Dostupnost není dána potřebou jen vlivem „zdola“, ale především je to systematická státní politika toho, že je potřeba do toho investovat a mít infrastrukturu. Pokud funguje, tak má možnost z neurčitého postoje udělat postoj, který je ekologicky uvědomělý. Nejlepší ekologické chování je takové, o kterém ani neuvažujeme jako ekologickém, ale stává se pro nás samozřejmostí, což je pro část lidí právě třídění. 
-
-## Graf 5 
+<!-- ## Graf 5  -->
 <wide>
 <figure class="vis-static">
 <img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-mozne-dopady-des.svg" class="desktop">
@@ -117,11 +110,7 @@ Příklad: Češi třídí odpad na mezinárodní poměry celkem hodně, ale je 
 </figure>
 </wide>
 
-9)	Třetí největší hrozbou v kontextu změny klimatu lidé vidí v migraci. Jak si to vysvětlit?
-
-Migrace je téma, které bylo nastoleno v roce 2014, 2015 a se stalo hlavním tématem, které vtáhlo do veřejného prostoru kulturní štěpení na politické scéně. V minulosti šlo více o střety ekonomické pravice a ekonomické levice. Téma migrace pomohlo vytáhnout kulturní otázky – jaká je česká kultura, co by mělo být zachováno. Zůstalo pro určitou skupinou lidí velmi silným motivátorem pro to někoho volit. Kulturní ohrožení je dnes šíře spojované nejen s migrací z Afriky, ale také podléhání tzv. západu nebo progresivním reformám. 
-
-Zjišťovali jsme, jaká jsou v očích veřejnosti největší rizika, když se nebude změna klimatu vůbec řešit a problém bude globálně narůstat. Jaké by mohly být dopady na Česko: největší jsou nedostatek vody a devastace krajiny, pokračování toho, co lidé vnímají velmi silně a vidí v bezprostředním okolí. Ale část veřejnosti vidí velké riziko v migraci, která není environmentálním dopadem, a ani ekonomickým, ale dopad toho, že se dá do pohybu miliony lidí na světě. Tyto lidi vnímáme jako ohrožení, nikoliv kulturní obohacení.
+„Téma migrace okolo let 2014 a 2015 pomohlo vytáhnout kulturní otázky: jaká je česká kultura, co by mělo být zachováno. Zůstalo pro určitou skupinou lidí velmi silným motivátorem pro to někoho volit. Kulturní ohrožení je dnes šíře spojované nejen s migrací z Afriky, ale také podléhání tzv. západu nebo progresivním reformám,“ pokračuje Buchtík.
 
 ## Graf 6
 <wide>
@@ -131,10 +120,6 @@ Zjišťovali jsme, jaká jsou v očích veřejnosti největší rizika, když se
 </figure>
 </wide>
 
-O něco více u kosmopolitní třídy:
-
-Je to dáno tím, že vyšší střední třídy více pracují v oblastech, které nebudou tak zasažené tím, že například automatizace linek nebo průmyslu je může připravit o práci. Proto je to pro ně spíše příležitost.
-Sociální střet je veden přes zprostředkovaná témata. Lidem se k nim pojí otázky: Je to tak, že snaha změnit naše chování je neúčinná, protože je nás deset milionů na osmi miliardové planetě? Nebo je to tak, že v momentu, kdy začneme něco měnit, tak to začneme měnit v důsledku politik (policies) které jsou zlobbované a nevýhodné a vlastně někdo v tom vidí ekologický byznys? Připraví tlak na ekologičnost spoustu lidí o práci např. tím, že bude tlak na to vyrábět auta na elektrický pohon, která jsou sestavena z méně součástek a zároveň budou výrazně častěji vyráběna na automatizovaných linkách a tím celé segmenty přijdou o práci? To jsou otázky, které společnost mohou štěpit. 
 
 ## Graf 7 
 <wide>
@@ -144,15 +129,6 @@ Sociální střet je veden přes zprostředkovaná témata. Lidem se k nim pojí
 </figure>
 </wide>
 
-10)	Vnímání změny jako příležitost. 
-
-Poselství výzkumu vlastně je, že kdyby se to zvládlo, tak to bude pozitivní změna. Zároveň tam zaznívá typická skepse české veřejnosti v tom, že jsme to chtěli udělat lépe, ale dopadlo to jako vždycky. Tak trochu na půl plynu. Idea není špatná a politický střet se bude vést o způsobech realizace a co to všechno znamená a obnáší, to je vidět na tom, že větší riziko lidé vnímají pro českou ekonomiku (40 procent) ale pro zdraví je tam 30 procent, kteří se obávají. 
-
-Co to ovlivňuje:
-
-Životní zkušenost, v jaké profesi jste pracoval/pracujete, jestli v jakékoliv společenské změně vnímáte spíše cestu k lepšímu nebo snahu rozdrobit poslední zbytky normálního světa. 
-
-Dělící linie nevedou tam, kde se občas mediálně tváříme. Shoda je velká. To, že není změna klimatu si myslí do deseti procent lidí, to je málo. To, že je s tím potřeba něco dělat je pro spoustu lidí zjevné, problém nastává v tom: jak, za jakou cenu, před čím to upřednostnit a kdy s tím začít. A s čím začít. 
 
 <right>
 	<p>
@@ -166,11 +142,13 @@ Dělící linie nevedou tam, kde se občas mediálně tváříme. Shoda je velk�
 	</p>
 </right>
 
-11)	Řešení?
+## Rozhodující je okolí a návyky
 
-Obecně veřejné mínění se vyvíjí relativně pomalu. I to třídění trvalo postupně od 90.let, mladší generace třídí více druhů odpadů a přijde ji to přirození. Změna může trvat dlouhé roky. Pokud se s tím má něco dělat, mělo by to jít shora. Lidé by obecně byli ochotni kupovat a vyhazovat méně obalů, protože obaly jsou něco, co je k ničemu. Na tom je společenská shoda. Ta možnost musí být dostupná. Při tvorbě politik se nesmí zapomínat na to, že to není jen environmentální problém, ale je to také sociální problém. To, že pracujete na Pankráci ve věžáku a mlátíte něco do klávesnice je z hlediska ohrožení vaší práce úplně jiný druh problému, než když jste u výrobní linky, která by se měla automatizovat. Když vyděláváte sto tisíc měsíčně je vám jedno, jestli chleba stojí 40, 30 nebo 70 korun. Nevíte to. Ale lidé, kteří mají na celou rodinu se dvěma dětmi pětadvacet tisíc, tak to pociťují silněji. Vracíme se ke třídnímu rozdělení společnosti a objevuje se to v datech, že motivátory u nižších sociálních skupin jsou u nižších středních tříd motivovány ekonomicky. 
+Veřejné mínění se podle sociologů vyvíjí pomalu a změna postojů ke změnám klimatu může trvat dlouhé roky. „Pokud se s tím má něco dělat, mělo by to jít shora,“ míní Buchtík. Při tvorbě veřejných politik se ale nesmí zapomínat na to, že změna klimatu není jen environmentální problém, ale také sociální. „To, že pracujete na Pankráci ve věžáku v IT oboru je z hlediska ohrožení vaší práce úplně jiný druh problému, než když jste u výrobní linky, která by se měla automatizovat. Nejspíše také méně řešíte, jestli chleba stojí čtyřicet nebo sedmdesát korun. Ale lidé, kteří mají na celou rodinu se dvěma dětmi pětadvacet tisíc, takové změny pociťují silněji,“ dodává. 
 
-Důležitější než to, jaké máte postoje k tomu klimatu a životnímu prostředí je v jakém jste vychován životním stylu a jaký je váš životní standard. Když jste zvyklá hodně cestovat, létat letadlem, tak to si většinou neodpustíte a cestujete a tím je vaše uhlíková stopa větší. I když se ji snažíte redukovat nějakým pro ekologickým chováním a nakupováním. To zdaleka nestačí. Pořád je důležitější vaše socioekonomické zázemí, které když nemáte tu možnost tak nezvětšujete tolik, protože nemůžete dovolit létat.
+Data dokládají, že motivátory u nižších sociálních skupin bývají ekonomické. Rozhodující je ale podle Buchtíka osobní postoj a životní prostředí, ve kterém je člověk vychován. „Záleží na tom, jaké máte možnosti a životní standard. Pokud jste zvyklí hodně cestovat, létání letadlem si většinou neodpustíte. Tím je vaše uhlíková stopa větší, i když se ji snažíte redukovat jiným pro ekologickým chováním a nakupováním. To zdaleka nestačí,“ uzavírá. 
+
+_Názorům české veřejnosti na různé politiky v oblasti životního prostředí je věnována třetí, závěrečná část výzkumu Českého rozhlasu a sociologů. Jaké proenvironmentální politiky jsme ochotni přijmout? Jsme ochotni se omezit? Odpoví rozhovor se socioložkou Paulínou Tabery, na webu iROZHLAS.cz v pátek 14.května._
 
 <div id="tridy-box"></div>
 
