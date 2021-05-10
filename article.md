@@ -17,7 +17,7 @@ GRAF 5 možné dopady neřešené změny klimatu na Česko – vycházet ze str.
 GRAF 6 bublinky, kolik lidí se čeho bojí, str. 30 <br>
 GRAF 7 dvě bublinkový kolečka: strach z výrazných ztrát pro českou ekonomiku: zajištěná střední třída x strádající třída <br>
 
-## Graf 1 
+<!-- ## Graf 1  -->
 <wide>
 <figure class="vis-static">
 <img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-des.svg" class="desktop">
@@ -25,7 +25,7 @@ GRAF 7 dvě bublinkový kolečka: strach z výrazných ztrát pro českou ekonom
 </figure>
 </wide>
 
-## Graf 2 
+<!-- ## Graf 2  -->
 <wide>
 <figure class="vis-static">
 <img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-muzi-zeny-des.svg" class="desktop">
@@ -33,11 +33,11 @@ GRAF 7 dvě bublinkový kolečka: strach z výrazných ztrát pro českou ekonom
 </figure>
 </wide>
 
-## Graf 3 
+<!-- ## Graf 3  -->
 <wide>
 <figure class="vis-static">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf3-des.svg" class="desktop">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf3-mob.svg" class="mobile">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-kdy-resit-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-kdy-resit-mob.svg" class="mobile">
 </figure>
 </wide>
 
