@@ -74,11 +74,11 @@ Rozdíl mezi muži a ženami je zajímavý, ale pro nás velmi těžce vysvětli
 
 Jsou to změny dlouhodobé, mnohdy abstraktní a je tady řada témat, která vnímáme jako nutná řešit teď a tady, protože na nás útočí každý den. Typicky epidemie covidu: rychlost očkování nebo ekonomické dopady. To jsou problémy, které musíme vyřešit teď. Změna klimatu je téma dlouhodobé, která se kontinuálně zhoršuje a z ekonomické oblasti má přirovnání k důchodové reformě – všichni víme, že ten systém je neudržitelný a musí se s tím něco udělat, ale když se rozhodujeme, jestli teď budeme řešit důchodovou reformu a nebo dotace zavřeným podnikatelům, tak se politická reprezentace rozhodne logicky pro to, co je aktuálnější. Bohužel ale nevyčleňují kapacity na to, co bude v budoucnu. Strategický záměr nám uniká, dostáváme se do situace, kdy řešíme problémy, které jsme nemuseli mít. 
 
-## Graf 4 
+<!-- ## Graf 4  -->
 <wide>
 <figure class="vis-static">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf4-des.svg" class="desktop">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf4-mob.svg" class="mobile">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-ohrozeni-prostredi-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-ohrozeni-prostredi-mob.svg" class="mobile">
 </figure>
 </wide>
 
@@ -107,8 +107,8 @@ Příklad: Češi třídí odpad na mezinárodní poměry celkem hodně, ale je 
 ## Graf 5 
 <wide>
 <figure class="vis-static">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf5-des.svg" class="desktop">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf5-mob.svg" class="mobile">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-mozne-dopady-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-mozne-dopady-mob.svg" class="mobile">
 </figure>
 </wide>
 
@@ -134,8 +134,8 @@ Sociální střet je veden přes zprostředkovaná témata. Lidem se k nim pojí
 ## Graf 7 
 <wide>
 <figure class="vis-static">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf7-des.svg" class="desktop">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf7-mob.svg" class="mobile">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-strach-ekonomika-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-strach-ekonomika-mob.svg" class="mobile">
 </figure>
 </wide>
 
