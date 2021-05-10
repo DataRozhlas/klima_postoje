@@ -86,6 +86,17 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./js/TridyBox.jsx":
+/*!*************************!*\
+  !*** ./js/TridyBox.jsx ***!
+  \*************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("throw new Error(\"Module parse failed: Unexpected token (10:4)\\nYou may need an appropriate loader to handle this file type, currently no loaders are configured to process this file. See https://webpack.js.org/concepts#loaders\\n|   const [displayed, setDisplayed] = useState(0);\\n|   return (\\n>     <>\\n|       <div className=\\\"tridy-buttons\\\">\\n|         {orderedClasses.map((cls, idx) => (\");\n\n//# sourceURL=webpack:///./js/TridyBox.jsx?");
+
+/***/ }),
+
 /***/ "./js/byeie.js":
 /*!*********************!*\
   !*** ./js/byeie.js ***!
@@ -105,7 +116,7 @@ eval("if (navigator.appName === \"Microsoft Internet Explorer\" || !!(navigator.
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _byeie__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./byeie */ \"./js/byeie.js\");\n/* harmony import */ var _byeie__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_byeie__WEBPACK_IMPORTED_MODULE_0__);\n // loučíme se s IE\n\n/*\n// snadné načtení souboru pro každého!\nfetch(\"https://blabla.cz/blabla.json\")\n  .then(response => response.json()) // nebo .text(), když to není json\n  .then(data => {\n    // tady jde provést s daty cokoliv\n  });\n*/\n\n//# sourceURL=webpack:///./js/script.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _byeie__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./byeie */ \"./js/byeie.js\");\n/* harmony import */ var _byeie__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_byeie__WEBPACK_IMPORTED_MODULE_0__);\n!(function webpackMissingModule() { var e = new Error(\"Cannot find module 'react'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n!(function webpackMissingModule() { var e = new Error(\"Cannot find module 'react-dom'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n/* harmony import */ var _TridyBox_jsx__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./TridyBox.jsx */ \"./js/TridyBox.jsx\");\n/* harmony import */ var _TridyBox_jsx__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_TridyBox_jsx__WEBPACK_IMPORTED_MODULE_2__);\n // loučíme se s IE\n\n\n\n\n!(function webpackMissingModule() { var e = new Error(\"Cannot find module 'react-dom'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }()).render(!(function webpackMissingModule() { var e = new Error(\"Cannot find module 'react'\"); e.code = 'MODULE_NOT_FOUND'; throw e; }()).createElement(_TridyBox_jsx__WEBPACK_IMPORTED_MODULE_2___default.a, null), document.getElementById(\"tridy-box\"));\n\n//# sourceURL=webpack:///./js/script.js?");
 
 /***/ })
 

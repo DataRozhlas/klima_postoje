@@ -89,6 +89,11 @@ Téma změny klimatu je roztříštěné do různých kategorií a změna klimat
 <left>
 	<p>
 	<b>Zajištěná střední třída praktická lékařka Eva Baxová z Plzně</b>
+	<div class="img img--16x9 img--w238">
+          <span class="img__holder">
+            <img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/img_e1349_210510-141213_nkr.JPG?itok=nQw-wyj9" width="238" height="134" alt="">
+          </span>
+        </div>
 	</p><p>Kromě jezírka, které oku lahodí, udržují Baxovi vodu i jinak a začali s tím dávno předtím, než se to stalo módou. „V zemi je zakopaný starý pivovarský tank o dvaceti kubících a do něj chytáme dešťovou vodu na zalévání zahrady. Aspoň takhle se chovat k přírodě, je pro každého minimum. Pak už by se měli ti osvícení vládní představitelé zabývat těmi většími problémy jako udržitelnost vody v krajině. Odborníci vědí, jak se to má dělat, teď už to jen realizovat.“ 
 	</p>
 </left>
@@ -157,8 +162,6 @@ Obecně veřejné mínění se vyvíjí relativně pomalu. I to třídění trva
 
 Důležitější než to, jaké máte postoje k tomu klimatu a životnímu prostředí je v jakém jste vychován životním stylu a jaký je váš životní standard. Když jste zvyklá hodně cestovat, létat letadlem, tak to si většinou neodpustíte a cestujete a tím je vaše uhlíková stopa větší. I když se ji snažíte redukovat nějakým pro ekologickým chováním a nakupováním. To zdaleka nestačí. Pořád je důležitější vaše socioekonomické zázemí, které když nemáte tu možnost tak nezvětšujete tolik, protože nemůžete dovolit létat.
 
-["zákonnou povinnost"](https://www.zakonyprolidi.cz/cs/2005-127/zneni-20160919#p97-3) 
-
-<wide><i>Pokud vás zajímá, "kolik" lidí bývá ve dne a v noci ve vaší čtvrti, najděte si ji na mapě, přepněte se na časové řezy, vyberte přepínač hustota osob a potom pohybujte "posuvníkem" nahoře.</i></wide>
+<div id="tridy-box"></div>
 
 _Výzkum vznikl v průběhu roku 2020 na vzorku 2 239 osob jako reprezentativní pro populaci ČR ve věku 18-75 let a pro Český rozhlas ho připravil tým sociologů z agentur PAQ Research (Daniel Prokop, Tomáš Dvořák), STEM (Martin Buchtík, Jitka Uhrová) a CVVM Sociologického ústavu AV ČR (Paulína Tabery, Matouš Pilnáček). Šetření realizovaly agentury STEM/MARK a MEDIAN. Výsledná zpráva je [ke stažení ZDE](https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_k_210509-163355_cib.pdf)._
