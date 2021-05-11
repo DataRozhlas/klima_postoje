@@ -1,11 +1,11 @@
 @media (min-width: 601px) {
   .b-data__bg {
-    background-image: url("https://data.irozhlas.cz/klima_postoje/grafy/klima-otvirak.png");
+    background-image: url("https://data.irozhlas.cz/klima_postoje/grafy/klima-otvirak-des.png");
   }
 }
 
 @media (max-width: 600px) {
   .b-data__bg {
-    background-image: url("https://data.irozhlas.cz/klima_postoje/grafy/klima-otvirak.png");
+    background-image: url("https://data.irozhlas.cz/klima_postoje/grafy/klima-otvirak-mob.png");
   }
 }
