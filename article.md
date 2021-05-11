@@ -170,8 +170,8 @@ Data dokládají, že motivátory u nižších sociálních skupin bývají ekon
 
 Rozhodující je ale podle Buchtíka osobní postoj a životní prostředí, ve kterém je člověk vychován. „Záleží na tom, jaké máte možnosti a životní standard. Pokud jste zvyklí hodně cestovat, létání si většinou neodpustíte. Potom je vaše uhlíková stopa větší, i když se ji snažíte redukovat jiným pro ekologickým chováním a nakupováním. A to zdaleka nestačí.“ 
 
-_Jaké proenvironmentální politiky jsme ochotni přijmout? Jsme ochotni se omezit? Odpoví rozhovor se socioložkou Paulínou Tabery na webu iROZHLAS.cz v pátek 14.května. 
+_Jaké proenvironmentální politiky jsme ochotni přijmout? Jsme ochotni se omezit? Odpoví rozhovor se socioložkou Paulínou Tabery na webu iROZHLAS.cz v pátek 14.května._ 
 
-Už ve středu 12. května můžete poslouchat [speciální vysílání](https://plus.rozhlas.cz/program#/2021-05-12) Českého Rozhlasu Plus. Během Dne s klimatem vystoupí řada hostů, mluvit s nimi budeme o proměnách krajiny, životního stylu, ale také budoucnosti českého zemědělství._
+_Už ve středu 12. května můžete poslouchat [speciální vysílání](https://plus.rozhlas.cz/program#/2021-05-12) Českého Rozhlasu Plus. Během Dne s klimatem vystoupí řada hostů, mluvit s nimi budeme o proměnách krajiny, životního stylu, ale také budoucnosti českého zemědělství._
 
 _Výzkum Rozděleni svobodou – klimatická změna vznikl v průběhu roku 2020 na vzorku 2239 osob jako reprezentativní pro populaci ČR ve věku 18-75 let a pro Český rozhlas ho připravil tým sociologů z agentur PAQ Research (Daniel Prokop, Tomáš Dvořák), STEM (Martin Buchtík, Jitka Uhrová) a CVVM Sociologického ústavu AV ČR (Paulína Tabery, Matouš Pilnáček). Šetření realizovaly agentury STEM/MARK a MEDIAN. Výsledná zpráva je [ke stažení ZDE](https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_k_210509-163355_cib.pdf)._
