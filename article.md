@@ -69,7 +69,7 @@ Jedním z důvodu může podle sociologů být upřednostnění naléhavějšíc
           </span>
         </div>
 	</p><p>
-	Martin Buchtík je sociolog a ředitel ústavu STEM, je členem občanské iniciativy KoroNERV-20. Doktorské studium absolvoval na Fakultě sociálních věd na Univerzitě Karlově, dříve řídil Centrum pro výzkum veřejného mínění a tým sociálního a politického výzkumu ve společnosti MEDIAN. V posledních deseti letech realizoval řadu výzkumů a sociologických studií, spojených zejména s kvalitou života, životním stylem a formováním veřejného mínění. 
+	Martin Buchtík je sociolog a ředitel ústavu STEM. Doktorské studium absolvoval na Fakultě sociálních věd na Univerzitě Karlově, dříve řídil Centrum pro výzkum veřejného mínění a tým sociálního a politického výzkumu ve společnosti MEDIAN. V posledních deseti letech realizoval řadu výzkumů a sociologických studií, spojených zejména s kvalitou života, životním stylem a formováním veřejného mínění. Je členem občanské iniciativy KoroNERV-20.
 	</p>
 </right>
 
