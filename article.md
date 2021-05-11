@@ -24,7 +24,7 @@ options: [] #wide, noheader (, nopic)
 
 Že člověku dělá velkou starost sucho, ještě automaticky neznamená, že ho přičítá změnám klimatu – a zároveň ne všichni, kteří změny klimatu považují za vážný problém, mají největší obavy právě ze sucha. 
 
-Ačkoliv exkluzivní průzkum Českého rozhlasu a agentur PAQ Research a CVVM ukázal, že se na existenci klimatických změn shodne 93 % Čechů a Češek, vyplývá z něj zároveň i to, že si pod komplexním problémem představují někdy velmi různé věci. Často v závislosti na tom, z jaké pocházejí společenské třídy. 
+Ačkoliv exkluzivní průzkum Českého rozhlasu a agentur PAQ Research a CVVM ukázal, že se na existenci klimatických změn shodne 93 % Čechů a Češek, vyplývá z něj zároveň i to, že si pod komplexním problémem představují různé věci. Často v závislosti na tom, z jaké pocházejí společenské třídy. 
 
 _Přečtěte si o hlavních zjištěních výzkumu Rozděleni svobodou – klimatická změna a spočítejte si svou osobní uhlíkovou stopu v [unikátní kalkulačce](https://www.irozhlas.cz/zpravy-domov/co2-uhlikova-stopa-letani-tridy-rozdeleni-klimatem-svobodou-kalkulacka-spocitat_2105100500_cib)._
 
@@ -36,7 +36,7 @@ _Přečtěte si o hlavních zjištěních výzkumu Rozděleni svobodou – klima
             <img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/img_e1349_210510-141213_nkr.JPG?itok=nQw-wyj9" width="238" height="134" alt="">
           </span>
         </div>
-	</p><p>„Jsou tu děti i vnoučata a je na politicích i na společnosti ve světě, aby to vzali vážně a začali se tím zabývat,“ říká lékařka Eva Baxová v prvním ze sedmi rozhovorů Českého rozhlasu o otázkách klimatu se zástupci jednotlivých společenských tříd.
+	</p><p>„Jsou tu děti i vnoučata a je na politicích i na společnosti ve světě, aby to vzali vážně a začali se tím zabývat,“ říká lékařka Eva Baxová v <a href="https://www.irozhlas.cz/zivotni-styl/spolecnost/eva-baxova-lekarka-zivotni-prostredi-ekologie-rozdeleni-klimatem_2105101746_tzr">prvním z rozhovorů</a> Českého rozhlasu o otázkách klimatu se zástupci jednotlivých společenských tříd.
 	</p>
 </left>
 
@@ -56,7 +56,7 @@ Například: přestože je podle 82 % dotázaných k řešení krize nezbytné z
 </figure>
 </wide>
 
-Jedním z důvodu může podle sociologů být upřednostnění naléhavějších témat, která ve společnosti více rezonují. V posledním roce například pandemie koronaviru.
+Jedním z důvodu může podle sociologů být upřednostnění naléhavějších témat, která ve společnosti více rezonují. V posledním roce například právě pandemie.
 
 „Pandemii vnímáme jako něco, co je nutné řešit teď a tady, útočí na nás každý den,“ vysvětluje sociolog Buchtík. Klima se ale zhoršuje postupně, diskuse o jeho změnách proto připomíná například diskusi o důchodové reformě.
 
@@ -103,13 +103,13 @@ Rozdíl v postojích mezi ženami a muži je pro sociology zajímavý, ale záro
 
 Zájem o klima výrazně roste s lidským a kulturním kapitálem. O životní prostředí se více zajímají lidé již přesvědčení o tom, že ke změnám klimatu dochází.
 
-Zájem o změny klimatu a hledání řešení podle sociologů není nutně mezigeneračním konfliktem. „Z mediálního prostoru se zdálo, že jde o střet mladých a starších. Z výzkumu je ale zřejmé, že se v postojích ke změnách klimatu lidé napříč socioekonomickými třídami ani věkovými kategoriemi neliší,“ vysvětluje sociolog.
+Zájem o změny klimatu a hledání řešení podle sociologů není nutně mezigeneračním konfliktem. „Z mediálního prostoru se zdálo, že jde o střet mladých a starších. Z výzkumu je ale zřejmé, že se v postojích ke změnách klimatu lidé napříč socioekonomickými třídami ani věkovými kategoriemi neliší,“ říká sociolog.
 
 Mladší lidé ovšem mohou volit viditelnější prostředky pro komunikaci svých postojů, a proto dostávají v médiích víc prostoru. „Navíc je mezi nimi více těch, kteří říkají: ,Pozor, klima se mění a my v něm budeme žít za padesát, šedesát let. ‘V praxi se ale o problém zajímají také starší lidé,“ popisuje Buchtík.
 
 ## Čeho se na změnách klimatu obáváme nejvíc? 
 
-Češi a Češky nejčastěji projevují obavy z hrozeb, které se už v naší krajině projevují: sucho, zásoby vody, stav lesů.  Zároveň ale samotnou změna klimatu, ačkoliv působí jako zesilovač těchto i dalších problémů, považuje za „velmi závažný problém“ jen 27 procent dotázaných. Podle sociologa právě pro její abstraktní povahu.
+Češi a Češky nejčastěji projevují obavy z hrozeb, které se už v naší krajině projevují: sucho, zásoby vody, stav lesů.  Zároveň ale samotnou změnu klimatu, ačkoliv působí jako zesilovač těchto i dalších problémů, považuje za „velmi závažný problém“ jen 27 procent dotázaných. Podle sociologa právě pro její abstraktní povahu.
 
 <!-- ## Graf 4  -->
 <wide>
@@ -130,7 +130,7 @@ Další podobný paradox: čím blíž se otázky dostávají k životnímu pros
 
 <!-- ## Graf 6  -->
 
-Sociologové dále zjišťovali, jaká jsou v očích veřejnosti největší rizika plynoucí z neřešené změny klimatu. Za nejvážnější potenciální dopady považujeme prohloubení těch problémů, které již zaznamenáme, hůře představitelné dopady jako přírodní katastrofy nás tolik netrápí. 
+Sociologové dále zjišťovali, jaká jsou v očích veřejnosti největší rizika vyplývající z případného nebržděného oteplování. Za nejvážnější potenciální dopady považujeme prohloubení těch problémů, které již zaznamenáme, hůře představitelné dopady jako přírodní katastrofy nás tolik netrápí. 
 
 Silná skupina dotázaných označila za závažný dopad migraci. Podle sociologů jde o pozůstatek veřejné debaty let minulých a strachu vyvolaného migrační krizí. 
 
@@ -151,9 +151,9 @@ Silná skupina dotázaných označila za závažný dopad migraci. Podle sociolo
 </figure>
 </wide>
 
-Právě u potenciálních hrozeb neřešených změn klimatu se výrazněji rozcházejí názory zástupců různých socioekonomických tříd. Nejmenší obavy celkově má Zajištěná střední třída. 
+Právě u potenciálních dopadů neřešených změn klimatu se výrazněji rozcházejí názory zástupců různých socioekonomických tříd. 
 
-Nastupující kosmopolitní se méně bojí ekonomických ztrát a migrace. Nejvíc se ve všech ohledech obávají lidé ze Strádající třídy. Dvakrát častěji než příslušníci dvou nejbohatších tříd vyjadřují strach z toho, že neřešené změny klimatu dopadnou na Česko i ekonomicky. 
+Nejmenší obavy celkově má Zajištěná střední třída. Nastupující kosmopolitní se méně bojí ekonomických ztrát a migrace. Nejvíc se ve všech ohledech obávají lidé ze Strádající třídy. Dvakrát častěji než příslušníci dvou nejbohatších tříd vyjadřují strach z toho, že neřešené změny klimatu dopadnou na Česko i ekonomicky. 
 
 <wide>
 <figure class="vis-static">
@@ -168,8 +168,10 @@ Při tvorbě klimatických politik se proto podle Buchtíka i dalších sociolog
 
 Data dokládají, že motivátory u nižších sociálních skupin bývají ekonomické. Jinými slovy: budou ochotnější se podílet na řešení, pokud nebudou mít pocit, že na ně nespravedlivě dopadají jeho náklady.
 
-Rozhodující je ale podle Buchtíka osobní postoj a životní prostředí, ve kterém je člověk vychován. „Záleží na tom, jaké máte možnosti a životní standard. Pokud jste zvyklí hodně cestovat, létání letadlem si většinou neodpustíte. Tím je vaše uhlíková stopa větší, i když se ji snažíte redukovat jiným pro ekologickým chováním a nakupováním. A to zdaleka nestačí.“ 
+Rozhodující je ale podle Buchtíka osobní postoj a životní prostředí, ve kterém je člověk vychován. „Záleží na tom, jaké máte možnosti a životní standard. Pokud jste zvyklí hodně cestovat, létání si většinou neodpustíte. Potom je vaše uhlíková stopa větší, i když se ji snažíte redukovat jiným pro ekologickým chováním a nakupováním. A to zdaleka nestačí.“ 
 
-_Jaké proenvironmentální politiky jsme ochotni přijmout? Jsme ochotni se omezit? Odpoví rozhovor se socioložkou Paulínou Tabery, na webu iROZHLAS.cz v pátek 14.května. Poslouchat můžete také [speciální vysílání](https://plus.rozhlas.cz/program#/2021-05-12) Českého Rozhlasu Plus ve středu 12.května. Během Dne s klimatem vystoupí řada hostů, pokryjí témata proměny krajiny, životního stylu, ale také budoucnost českého zemědělství._
+_Jaké proenvironmentální politiky jsme ochotni přijmout? Jsme ochotni se omezit? Odpoví rozhovor se socioložkou Paulínou Tabery na webu iROZHLAS.cz v pátek 14.května. 
 
-_Výzkum vznikl v průběhu roku 2020 na vzorku 2239 osob jako reprezentativní pro populaci ČR ve věku 18-75 let a pro Český rozhlas ho připravil tým sociologů z agentur PAQ Research (Daniel Prokop, Tomáš Dvořák), STEM (Martin Buchtík, Jitka Uhrová) a CVVM Sociologického ústavu AV ČR (Paulína Tabery, Matouš Pilnáček). Šetření realizovaly agentury STEM/MARK a MEDIAN. Výsledná zpráva je [ke stažení ZDE](https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_k_210509-163355_cib.pdf)._
+Už ve středu 12. května můžete poslouchat [speciální vysílání](https://plus.rozhlas.cz/program#/2021-05-12) Českého Rozhlasu Plus. Během Dne s klimatem vystoupí řada hostů, mluvit s nimi budeme o proměnách krajiny, životního stylu, ale také budoucnosti českého zemědělství._
+
+_Výzkum Rozděleni svobodou – klimatická změna vznikl v průběhu roku 2020 na vzorku 2239 osob jako reprezentativní pro populaci ČR ve věku 18-75 let a pro Český rozhlas ho připravil tým sociologů z agentur PAQ Research (Daniel Prokop, Tomáš Dvořák), STEM (Martin Buchtík, Jitka Uhrová) a CVVM Sociologického ústavu AV ČR (Paulína Tabery, Matouš Pilnáček). Šetření realizovaly agentury STEM/MARK a MEDIAN. Výsledná zpráva je [ke stažení ZDE](https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_k_210509-163355_cib.pdf)._
