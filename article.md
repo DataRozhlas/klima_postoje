@@ -58,7 +58,7 @@ Například: přestože je podle 82 % dotázaných k řešení krize nezbytné z
 
 Jedním z důvodu může podle sociologů být upřednostnění naléhavějších témat, která ve společnosti více rezonují. V posledním roce například pandemie koronaviru.
 
-„Pandemii vnímáme jako něco, co je nutné řešit teď a tady, útočí na nás každý den,“ vysvětluje sociolog Buchtík. Klima se ale zhoršuje postupně, diskuse o jeho změnách proto připomíná například diskusi o důchodové reformě. „Všichni víme, že systém je neudržitelný a musí se s ním něco udělat. Když se ale rozhodujeme, jestli budeme zrovna teď řešit důchodovou reformu, nebo dotace zavřeným podnikatelům, politická reprezentace rozhodne logicky pro to, co je aktuálnější,“ objasňuje sociolog.
+„Pandemii vnímáme jako něco, co je nutné řešit teď a tady, útočí na nás každý den,“ vysvětluje sociolog Buchtík. Klima se ale zhoršuje postupně, diskuse o jeho změnách proto připomíná například diskusi o důchodové reformě.
 
 <right>
 	<p>
@@ -72,6 +72,8 @@ Jedním z důvodu může podle sociologů být upřednostnění naléhavějšíc
 	Martin Buchtík je sociolog a ředitel ústavu STEM, je členem občanské iniciativy KoroNERV-20. Doktorské studium absolvoval na Fakultě sociálních věd na Univerzitě Karlově, dříve řídil Centrum pro výzkum veřejného mínění a tým sociálního a politického výzkumu ve společnosti MEDIAN. V posledních deseti letech realizoval řadu výzkumů a sociologických studií, spojených zejména s kvalitou života, životním stylem a formováním veřejného mínění. 
 	</p>
 </right>
+
+„Všichni víme, že systém je neudržitelný a musí se s ním něco udělat. Když se ale rozhodujeme, jestli budeme zrovna teď řešit důchodovou reformu, nebo dotace zavřeným podnikatelům, politická reprezentace rozhodne logicky pro to, co je aktuálnější,“ objasňuje sociolog.
 
 I proto postoje ke klimatu českou společnost podle výzkumu neštěpí tolik, jak by se dalo očekávat. Prozatím nedochází k přijímání plošných politických opatření, která by občany rozdělovala – podobně jako to v současnosti dělají opatření protiepidemická. 
 
@@ -149,7 +151,9 @@ Silná skupina dotázaných označila za závažný dopad migraci. Podle sociolo
 </figure>
 </wide>
 
-Právě u potenciálních hrozeb neřešených změn klimatu se výrazněji rozcházejí názory zástupců různých socioekonomických tříd. Nejmenší obavy celkově má Zajištěná střední třída. Nastupující kosmopolitní se méně bojí ekonomických ztrát a migrace. Nejvíc se ve všech ohledech obávají lidé ze Strádající třídy. Dvakrát častěji než příslušníci dvou nejbohatších tříd vyjadřují strach z toho, že neřešené změny klimatu dopadnou na Česko i ekonomicky. 
+Právě u potenciálních hrozeb neřešených změn klimatu se výrazněji rozcházejí názory zástupců různých socioekonomických tříd. Nejmenší obavy celkově má Zajištěná střední třída. 
+
+Nastupující kosmopolitní se méně bojí ekonomických ztrát a migrace. Nejvíc se ve všech ohledech obávají lidé ze Strádající třídy. Dvakrát častěji než příslušníci dvou nejbohatších tříd vyjadřují strach z toho, že neřešené změny klimatu dopadnou na Česko i ekonomicky. 
 
 <wide>
 <figure class="vis-static">
@@ -166,6 +170,6 @@ Data dokládají, že motivátory u nižších sociálních skupin bývají ekon
 
 Rozhodující je ale podle Buchtíka osobní postoj a životní prostředí, ve kterém je člověk vychován. „Záleží na tom, jaké máte možnosti a životní standard. Pokud jste zvyklí hodně cestovat, létání letadlem si většinou neodpustíte. Tím je vaše uhlíková stopa větší, i když se ji snažíte redukovat jiným pro ekologickým chováním a nakupováním. A to zdaleka nestačí.“ 
 
-_Jaké proenvironmentální politiky jsme ochotni přijmout? Jsme ochotni se omezit? Odpoví rozhovor se socioložkou Paulínou Tabery, na webu iROZHLAS.cz v pátek 14.května. Poslouchat můžete také [speciální vysílání](https://plus.rozhlas.cz/program#/2021-05-12) Českého Rozhlasu Plus ve středu 12.května. Během Dne s klimatem vystoupí řada hostů, pokryjí témata politik, životního stylu, ale také budoucnost českého zemědělství a podobu krajiny._
+_Jaké proenvironmentální politiky jsme ochotni přijmout? Jsme ochotni se omezit? Odpoví rozhovor se socioložkou Paulínou Tabery, na webu iROZHLAS.cz v pátek 14.května. Poslouchat můžete také [speciální vysílání](https://plus.rozhlas.cz/program#/2021-05-12) Českého Rozhlasu Plus ve středu 12.května. Během Dne s klimatem vystoupí řada hostů, pokryjí témata proměny krajiny, životního stylu, ale také budoucnost českého zemědělství._
 
 _Výzkum vznikl v průběhu roku 2020 na vzorku 2239 osob jako reprezentativní pro populaci ČR ve věku 18-75 let a pro Český rozhlas ho připravil tým sociologů z agentur PAQ Research (Daniel Prokop, Tomáš Dvořák), STEM (Martin Buchtík, Jitka Uhrová) a CVVM Sociologického ústavu AV ČR (Paulína Tabery, Matouš Pilnáček). Šetření realizovaly agentury STEM/MARK a MEDIAN. Výsledná zpráva je [ke stažení ZDE](https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_k_210509-163355_cib.pdf)._
