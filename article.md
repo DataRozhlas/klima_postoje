@@ -77,7 +77,6 @@ I proto postoje ke klimatu českou společnost podle výzkumu neštěpí tolik, 
 
 Výzkum postojů ke změně klimatu a souvisejícím politickým opatřením navazuje na předloňský projekt Rozděleni svobodou. Ten v porevoluční společnosti identifikoval šest skupin obyvatel podle jejich příjmů, majetku a kontaktů, s těmito třídami pracuje i nový výzkum. Rozdíly mezi jednotlivými třídami jsou ale v otázkách klimatu většinou velmi malé.  
 
-_note: tady chci kartičky tříd (pls help)_
 <div id="tridy-box"></div>
 
 „Skeptiků a kritiků klimatické změny je v celé populaci 26 procent. V Zajištěné třídě jich najdeme 29 procent a naopak v Nastupující kosmopolitní, která je relativně nejvíc proekologická, je jich 19 procent.“ Výraznější rozdíly jsou patrnější v některých specifických otázkách. „Lidé z Tradiční pracující třídy nebo Třídy místních vazeb projevují větší obavy u věcí, které vidí v každodenním životě – například obavy o zásoby pitné vody,“ dodává Buchtík.
