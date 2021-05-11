@@ -6,6 +6,13 @@ styles: []
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader] #wide, noheader (, nopic)
 ---
+<!-- ## Graf 1  -->
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-mob.svg" class="mobile">
+</figure>
+</wide>
 
 <div class="pseudoperex">
 <ul>
@@ -15,19 +22,9 @@ options: [noheader] #wide, noheader (, nopic)
 </ul>
 </div> 
 
-<!-- ## Graf 1  -->
-<wide>
-<figure class="vis-static">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-des.svg" class="desktop">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-mob.svg" class="mobile">
-</figure>
-</wide>
-
 Že člověku dělá velkou starost sucho, ještě automaticky neznamená, že ho přičítá změnám klimatu – a zároveň ne všichni, kteří změny klimatu považují za vážný problém, mají největší obavy právě ze sucha. Ačkoliv exkluzivní průzkum Českého rozhlasu a agentur PAQ Research a CVVM ukázal, že se na existenci klimatických změn shodne 93 % Čechů a Češek, vyplývá z něj zároveň i to, že si pod komplexním problémem představují někdy velmi různé věci. Často v závislosti na tom, z jaké pocházejí společenské třídy. 
 
 _Přečtěte si o hlavních zjištěních výzkumu Rozděleni svobodou – klimatická změna a spočítejte si svou osobní uhlíkovou stopu v [unikátní kalkulačce](https://www.irozhlas.cz/zpravy-domov/co2-uhlikova-stopa-letani-tridy-rozdeleni-klimatem-svobodou-kalkulacka-spocitat_2105100500_cib)._
-
-„V hlavách Čechů a Češek není například sucho a globální změna klimatu pevně propojena. Tím pádem ani lidé kritičtí k tvrzení, že změna klimatu existuje, nemusí nutně popírat, že dochází k ztenčování zásob pitné vody,“ vysvětluje jeden z paradoxů odhalených výzkumem jeho spolutvůrce, sociolog a ředitel ústavu STEM Martin Buchtík. 
 
 <left>
 	<p>
@@ -40,6 +37,8 @@ _Přečtěte si o hlavních zjištěních výzkumu Rozděleni svobodou – klima
 	</p><p>„Jsou tu děti i vnoučata a je na politicích i na společnosti ve světě, aby to vzali vážně a začali se tím zabývat,“ říká lékařka Eva Baxová v prvním ze sedmi rozhovorů Českého rozhlasu o otázkách klimatu se zástupci jednotlivých společenských tříd.
 	</p>
 </left>
+
+„V hlavách Čechů a Češek není například sucho a globální změna klimatu pevně propojena. Tím pádem ani lidé kritičtí k tvrzení, že změna klimatu existuje, nemusí nutně popírat, že dochází k ztenčování zásob pitné vody,“ vysvětluje jeden z paradoxů odhalených výzkumem jeho spolutvůrce, sociolog a ředitel ústavu STEM Martin Buchtík. 
 
 „O vysychání studen slyšíme nejen v médiích, ale i od našich sousedů anebo sucho pociťujeme na vlastních zahrádkách. Stav amazonských pralesů a to, že se celá planeta ohřívá, je pro nás ale abstraktní, protože to máme velmi dalece zprostředkované. Není to tedy pro nás tak důležité a citlivé,“ dodává. 
 
@@ -101,8 +100,6 @@ Rozdíl v postojích mezi ženami a muži je pro sociology zajímavý, ale záro
 
 Zájem o klima výrazně roste s lidským a kulturním kapitálem. O životní prostředí se více zajímají lidé již přesvědčení o tom, že ke změnám klimatu dochází.
 
-Zájem o změny klimatu a hledání řešení podle sociologů není nutně mezigeneračním konfliktem. „Z mediálního prostoru se zdálo, že jde o střet mladých a starších. Z výzkumu je ale zřejmé, že se v postojích ke změnách klimatu lidé napříč socioekonomickými třídami ani věkovými kategoriemi neliší,“ vysvětluje sociolog.
-
 <left>
 	<p>
 	<b>Promo: Speciál Plusu a vysílání Radiožurnálu</b>
@@ -110,6 +107,8 @@ Zájem o změny klimatu a hledání řešení podle sociologů není nutně mezi
 	Kdy to hraje, kdo tam bude. 
 	</p>
 </right>
+
+Zájem o změny klimatu a hledání řešení podle sociologů není nutně mezigeneračním konfliktem. „Z mediálního prostoru se zdálo, že jde o střet mladých a starších. Z výzkumu je ale zřejmé, že se v postojích ke změnách klimatu lidé napříč socioekonomickými třídami ani věkovými kategoriemi neliší,“ vysvětluje sociolog.
 
 Mladší lidé ovšem mohou volit viditelnější prostředky pro komunikaci svých postojů, a proto dostávají v médiích víc prostoru. „Navíc je mezi nimi více těch, kteří říkají: ,Pozor, klima se mění a my v něm budeme žít za padesát, šedesát let. ‘V praxi se ale o problém zajímají také starší lidé,“ popisuje Buchtík.
 
