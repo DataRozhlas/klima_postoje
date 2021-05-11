@@ -1,10 +1,10 @@
-title: "Rozděleni klimatem: Češi se nejvíc bojí sucha a migrace. Stále ale doufají, že jim se změny vyhnou"
+title: "Nejvíc se bojíme sucha a migrace. Ale stále doufáme, že se nám změna klimatu vyhne"
 perex: ""
 coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href=''></a>"
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
-options: [] #wide, noheader (, nopic)
+options: [noheader] #wide, noheader (, nopic)
 ---
 <!-- ## Graf 1  -->
 <wide>
@@ -22,9 +22,7 @@ options: [] #wide, noheader (, nopic)
 </ul>
 </div> 
 
-Že člověku dělá velkou starost sucho, ještě automaticky neznamená, že ho přičítá změnám klimatu – a zároveň ne všichni, kteří změny klimatu považují za vážný problém, mají největší obavy právě ze sucha. 
-
-Ačkoliv exkluzivní průzkum Českého rozhlasu a agentur PAQ Research a CVVM ukázal, že se na existenci klimatických změn shodne 93 % Čechů a Češek, vyplývá z něj zároveň i to, že si pod komplexním problémem představují někdy velmi různé věci. Často v závislosti na tom, z jaké pocházejí společenské třídy. 
+Že člověku dělá velkou starost sucho, ještě automaticky neznamená, že ho přičítá změnám klimatu – a zároveň ne všichni, kteří změny klimatu považují za vážný problém, mají největší obavy právě ze sucha. Ačkoliv exkluzivní průzkum Českého rozhlasu a agentur PAQ Research a CVVM ukázal, že se na existenci klimatických změn shodne 93 % Čechů a Češek, vyplývá z něj zároveň i to, že si pod komplexním problémem představují někdy velmi různé věci. Často v závislosti na tom, z jaké pocházejí společenské třídy. 
 
 _Přečtěte si o hlavních zjištěních výzkumu Rozděleni svobodou – klimatická změna a spočítejte si svou osobní uhlíkovou stopu v [unikátní kalkulačce](https://www.irozhlas.cz/zpravy-domov/co2-uhlikova-stopa-letani-tridy-rozdeleni-klimatem-svobodou-kalkulacka-spocitat_2105100500_cib)._
 
@@ -36,17 +34,17 @@ _Přečtěte si o hlavních zjištěních výzkumu Rozděleni svobodou – klima
             <img src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_rubrikovy_nahled/public/uploader/img_e1349_210510-141213_nkr.JPG?itok=nQw-wyj9" width="238" height="134" alt="">
           </span>
         </div>
-	</p><p>„Jsou tu děti i vnoučata a je na politicích i na společnosti ve světě, aby to vzali vážně a začali se tím zabývat,“ říká lékařka Eva Baxová v prvním ze sedmi [rozhovorů Českého rozhlasu](https://irozhl.as/dEV) o otázkách klimatu se zástupci jednotlivých společenských tříd.
+	</p><p>„Jsou tu děti i vnoučata a je na politicích i na společnosti ve světě, aby to vzali vážně a začali se tím zabývat,“ říká lékařka Eva Baxová v prvním ze sedmi rozhovorů Českého rozhlasu o otázkách klimatu se zástupci jednotlivých společenských tříd.
 	</p>
 </left>
 
-„V hlavách Čechů a Češek není například sucho a globální změna klimatu pevně propojena. Tím pádem ani lidé kritičtí k tvrzení, že změna klimatu existuje, nemusí nutně popírat, že dochází k ztenčování zásob pitné vody,“ vysvětluje pro iROZHLAS.cz jeden z paradoxů odhalených výzkumem jeho spolutvůrce, sociolog a ředitel ústavu STEM Martin Buchtík. 
+„V hlavách Čechů a Češek není například sucho a globální změna klimatu pevně propojena. Tím pádem ani lidé kritičtí k tvrzení, že změna klimatu existuje, nemusí nutně popírat, že dochází k ztenčování zásob pitné vody,“ vysvětluje jeden z paradoxů odhalených výzkumem jeho spolutvůrce, sociolog a ředitel ústavu STEM Martin Buchtík. 
 
 „O vysychání studen slyšíme nejen v médiích, ale i od našich sousedů anebo sucho pociťujeme na vlastních zahrádkách. Stav amazonských pralesů a to, že se celá planeta ohřívá, je pro nás ale abstraktní, protože to máme velmi dalece zprostředkované. Není to tedy pro nás tak důležité a citlivé,“ dodává. 
 
 Právě proto, že je změna klimatu roztříštěna do mnoha dílčích problémů a lidé je často vnímají odděleně, mohou se různé skupiny ve svých názorech prolínat. A jeden postoj ještě nemusí předznamenávat druhý, který by se zdál být logický. 
 
-Například: přestože je podle 82 % dotázaných k řešení krize nezbytné změnit lidské chování, část z nich by ho raději začala měnit až někdy v budoucnosti. U zpomalování změn klimatu přitom platí to samé, co u potlačování pandemie koronaviru: čím později se začne, tím nákladnější omezení si to vyžádá.
+Například: přestože je pro 82 % dotázaných k řešení krize nezbytné změnit lidské chování, část z nich by ho raději začala měnit až někdy v budoucnosti. U zpomalování změn klimatu přitom platí to samé, co u potlačování pandemie koronaviru: čím později se začne, tím nákladnější omezení si to vyžádá.
 
 <!-- ## Graf 3  -->
 <wide>
@@ -83,7 +81,7 @@ Výzkum postojů ke změně klimatu a souvisejícím politickým opatřením nav
 
 „Skeptiků a kritiků klimatické změny je v celé populaci 26 procent. V Zajištěné třídě jich najdeme 29 procent a naopak v Nastupující kosmopolitní, která je relativně nejvíc proekologická, je jich 19 procent.“ Výraznější rozdíly jsou patrnější v některých specifických otázkách. „Lidé z Tradiční pracující třídy nebo Třídy místních vazeb projevují větší obavy u věcí, které vidí v každodenním životě – například obavy o zásoby pitné vody,“ dodává Buchtík.
 
-Pokud chcete vědět, do které ze šesti současných společenských tříd by výzkumníci zařadili právě vás, zjistíte to v naší /[starší aplikaci](https://www.irozhlas.cz/zpravy-domov/ceska-spolecnost-vyzkum-tridy-kalkulacka_1909171000_zlo#kalkulacka).
+Pokud chcete vědět, do které ze šesti současných společenských tříd by výzkumníci zařadili právě vás, zjistíte to v naší starší aplikaci.
 
 ## Nejde o střet generací
 
@@ -141,12 +139,12 @@ Silná skupina dotázaných označila za závažný dopad migraci. Podle sociolo
 </figure>
 </wide>
 
-„Téma migrace přispělo okolo let 2014 a 2015 k vytáhnutí kulturních otázek: jaká je vlastně česká kultura, co z ní má být zachováno. Pro určitou skupinou lidí zůstalo velmi silným motivátorem. Kulturní ohrožení je dnes šíře spojované nejen s migrací z Afriky, ale také s podléháním takzvaného Západu nebo tlaku na progresivní reformy,“ pokračuje Buchtík.
+„Téma migrace přispělo okolo let 2014 a 2015 k vytáhnutí kulturních otázek: jaká je vlastně česká kultura, co z ní má být zachováno. Pro určitou skupinou lidí zůstalo velmi silným motivátorem. Kulturní ohrožení je dnes šíře spojované nejen s migrací z Afriky, ale také s podléháním tzv. Západu nebo tlaku na progresivní reformy,“ pokračuje Buchtík.
 
 <wide>
 <figure class="vis-static">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf6-des.svg" class="desktop">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf6-mob.svg" class="mobile">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-dopady-tridy-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-dopady-tridy-mob.svg" class="mobile">
 </figure>
 </wide>
 
@@ -156,6 +154,14 @@ Právě u potenciálních hrozeb neřešených změn klimatu se výrazněji rozc
 <figure class="vis-static">
 <img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-strach-ekonomika-des.svg" class="desktop">
 <img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-strach-ekonomika-mob.svg" class="mobile">
+</figure>
+</wide>
+
+## Graf navic. Nevim, kam patri
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-projevy-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-projevy-mob.svg" class="mobile">
 </figure>
 </wide>
 
@@ -169,4 +175,4 @@ Rozhodující je ale podle Buchtíka osobní postoj a životní prostředí, ve 
 
 _Jaké proenvironmentální politiky jsme ochotni přijmout? Jsme ochotni se omezit? Odpoví rozhovor se socioložkou Paulínou Tabery, na webu iROZHLAS.cz v pátek 14.května._
 
-_Výzkum vznikl v průběhu roku 2020 na vzorku 2239 osob jako reprezentativní pro populaci ČR ve věku 18-75 let a pro Český rozhlas ho připravil tým sociologů z agentur PAQ Research (Daniel Prokop, Tomáš Dvořák), STEM (Martin Buchtík, Jitka Uhrová) a CVVM Sociologického ústavu AV ČR (Paulína Tabery, Matouš Pilnáček). Šetření realizovaly agentury STEM/MARK a MEDIAN. Výsledná zpráva je [ke stažení ZDE](https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_k_210509-163355_cib.pdf)._
+_Výzkum vznikl v průběhu roku 2020 na vzorku 2 239 osob jako reprezentativní pro populaci ČR ve věku 18-75 let a pro Český rozhlas ho připravil tým sociologů z agentur PAQ Research (Daniel Prokop, Tomáš Dvořák), STEM (Martin Buchtík, Jitka Uhrová) a CVVM Sociologického ústavu AV ČR (Paulína Tabery, Matouš Pilnáček). Šetření realizovaly agentury STEM/MARK a MEDIAN. Výsledná zpráva je [ke stažení ZDE](https://www.irozhlas.cz/sites/default/files/uploader_unmanaged/rozdeleni_svobodou_k_210509-163355_cib.pdf)._
