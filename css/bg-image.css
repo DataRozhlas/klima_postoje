@@ -1,11 +1,11 @@
 @media (min-width: 601px) {
   .b-data__bg {
-    background-image: url("https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-des.svg");
+    background-image: url("https://data.irozhlas.cz/klima_postoje/grafy/klima-otvirak.png");
   }
 }
 
 @media (max-width: 600px) {
   .b-data__bg {
-    background-image: url("https://data.irozhlas.cz/klima_postoje/grafy/klima-vira-mob.svg");
+    background-image: url("https://data.irozhlas.cz/klima_postoje/grafy/klima-otvirak.png");
   }
 }
