@@ -4,7 +4,7 @@ coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href=''></a>"
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
-options: [noheader] #wide, noheader (, nopic)
+options: [] #wide, noheader (, nopic)
 ---
 <!-- ## Graf 1  -->
 <wide>
