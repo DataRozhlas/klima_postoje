@@ -143,8 +143,8 @@ Silná skupina dotázaných označila za závažný dopad migraci. Podle sociolo
 
 <wide>
 <figure class="vis-static">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf6-des.svg" class="desktop">
-<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-graf6-mob.svg" class="mobile">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-dopady-tridy-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-dopady-tridy-mob.svg" class="mobile">
 </figure>
 </wide>
 
@@ -154,6 +154,14 @@ Právě u potenciálních hrozeb neřešených změn klimatu se výrazněji rozc
 <figure class="vis-static">
 <img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-strach-ekonomika-des.svg" class="desktop">
 <img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-strach-ekonomika-mob.svg" class="mobile">
+</figure>
+</wide>
+
+## Graf navic. Nevim, kam patri
+<wide>
+<figure class="vis-static">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-projevy-des.svg" class="desktop">
+<img loading="lazy" src="https://data.irozhlas.cz/klima_postoje/grafy/klima-projevy-mob.svg" class="mobile">
 </figure>
 </wide>
 
